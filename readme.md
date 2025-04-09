@@ -33,8 +33,6 @@ Start the server:
 
 npm run dev
 
-App should be running at: http://localhost:3000
-
 Running Tests
 
 Make sure the app is not running (to avoid port conflicts)
